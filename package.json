@@ -1,0 +1,36 @@
+{
+  "name": "@imdeepss/icon-studio",
+  "version": "1.0.1",
+  "description": "A React component library for icons",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "icons",
+    "typescript",
+    "component-library"
+  ],
+  "author": "Deepak K Vishwakarma",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
+    "tslib": "^2.7.0",
+    "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdeepss/IconStudio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imdeepss/IconStudio/issues"
+  },
+  "homepage": "https://github.com/imdeepss/IconStudio#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
