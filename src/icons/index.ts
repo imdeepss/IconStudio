@@ -25,3 +25,4 @@ export { default as GirlIcon } from "./GirlIcon";
 export { default as HeartIcon } from "./HeartIcon";
 export { default as CalendarIcon } from "./CalendarIcon";
 export { default as AdditionalInfoIcon } from "./AdditionalInfoIcon";
+export { default as MessageIcon } from "./MessageIcon";
